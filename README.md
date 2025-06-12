@@ -2,6 +2,8 @@
 
 A fun and efficient typing game to help you learn and master **Japanese Kana** – both **Hiragana** and **Katakana**!
 
+🔗 **Live Demo**: [kana-typer-two.vercel.app](https://kana-typer-two.vercel.app)
+
 ## 🚀 Features
 
 - 🎮 Interactive typing game to test your Kana knowledge
