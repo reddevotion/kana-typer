@@ -30,7 +30,7 @@ Make sure you have **Node.js v18+** installed.
 1. **Clone the repo**:
 
    ```bash
-   git clone https://github.com/your-username/kana-typer.git
+   git clone https://github.com/reddevotion/kana-typer.git
    cd kana-typer
 
    ```
