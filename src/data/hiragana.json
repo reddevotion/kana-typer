@@ -1,0 +1,88 @@
+[
+  { "kana": "あ", "romaji": "a", "type": "gojuon", "audio": "/audio/a.mp3", "example": "あめ (ame) - rain", "row": "a"},
+  { "kana": "い", "romaji": "i", "type": "gojuon", "audio": "/audio/i.mp3", "example": "いぬ (inu) - dog", "row": "a"},
+  { "kana": "う", "romaji": "u", "type": "gojuon", "audio": "/audio/u.mp3", "example": "うみ (umi) - sea", "row": "a"},
+  { "kana": "え", "romaji": "e", "type": "gojuon", "audio": "/audio/e.mp3", "example": "えき (eki) - station", "row": "a"},
+  { "kana": "お", "romaji": "o", "type": "gojuon", "audio": "/audio/o.mp3", "example": "おちゃ (ocha) - tea", "row": "a"},
+
+  { "kana": "か", "romaji": "ka", "type": "gojuon", "audio": "/audio/ka.mp3", "example": "かさ (kasa) - umbrella", "row": "ka"},
+  { "kana": "き", "romaji": "ki", "type": "gojuon", "audio": "/audio/ki.mp3", "example": "きつね (kitsune) - fox", "row": "ka"},
+  { "kana": "く", "romaji": "ku", "type": "gojuon", "audio": "/audio/ku.mp3", "example": "くも (kumo) - cloud/spider", "row": "ka"},
+  { "kana": "け", "romaji": "ke", "type": "gojuon", "audio": "/audio/ke.mp3", "example": "けむし (kemushi) - caterpillar", "row": "ka" },
+  { "kana": "こ", "romaji": "ko", "type": "gojuon", "audio": "/audio/ko.mp3", "example": "こども (kodomo) - child", "row": "ka" },
+
+  { "kana": "さ", "romaji": "sa", "type": "gojuon", "audio": "/audio/sa.mp3", "example": "さる (saru) - monkey", "row": "sa" },
+  { "kana": "し", "romaji": "shi", "type": "gojuon", "audio": "/audio/shi.mp3", "example": "しお (shio) - salt", "row": "sa" },
+  { "kana": "す", "romaji": "su", "type": "gojuon", "audio": "/audio/su.mp3", "example": "すいか (suika) - watermelon", "row": "sa" },
+  { "kana": "せ", "romaji": "se", "type": "gojuon", "audio": "/audio/se.mp3", "example": "せみ (semi) - cicada", "row": "sa" },
+  { "kana": "そ", "romaji": "so", "type": "gojuon", "audio": "/audio/so.mp3", "example": "そら (sora) - sky", "row": "sa" },
+
+  { "kana": "た", "romaji": "ta", "type": "gojuon", "audio": "/audio/ta.mp3", "example": "たまご (tamago) - egg", "row": "ta" },
+  { "kana": "ち", "romaji": "chi", "type": "gojuon", "audio": "/audio/chi.mp3", "example": "ちず (chizu) - map", "row": "ta" },
+  { "kana": "つ", "romaji": "tsu", "type": "gojuon", "audio": "/audio/tsu.mp3", "example": "つき (tsuki) - moon", "row": "ta" },
+  { "kana": "て", "romaji": "te", "type": "gojuon", "audio": "/audio/te.mp3", "example": "てがみ (tegami) - letter", "row": "ta" },
+  { "kana": "と", "romaji": "to", "type": "gojuon", "audio": "/audio/to.mp3", "example": "とけい (tokei) - clock", "row": "ta" },
+
+  { "kana": "な", "romaji": "na", "type": "gojuon", "audio": "/audio/na.mp3", "example": "なつ (natsu) - summer", "row": "na" },
+  { "kana": "に", "romaji": "ni", "type": "gojuon", "audio": "/audio/ni.mp3", "example": "にく (niku) - meat", "row": "na" },
+  { "kana": "ぬ", "romaji": "nu", "type": "gojuon", "audio": "/audio/nu.mp3", "example": "ぬの (nuno) - cloth", "row": "na" },
+  { "kana": "ね", "romaji": "ne", "type": "gojuon", "audio": "/audio/ne.mp3", "example": "ねこ (neko) - cat", "row": "na" },
+  { "kana": "の", "romaji": "no", "type": "gojuon", "audio": "/audio/no.mp3", "example": "のり (nori) - seaweed", "row": "na" },
+
+  { "kana": "は", "romaji": "ha", "type": "gojuon", "audio": "/audio/ha.mp3", "example": "はな (hana) - flower", "row": "ha" },
+  { "kana": "ひ", "romaji": "hi", "type": "gojuon", "audio": "/audio/hi.mp3", "example": "ひこうき (hikouki) - airplane", "row": "ha" },
+  { "kana": "ふ", "romaji": "fu", "type": "gojuon", "audio": "/audio/fu.mp3", "example": "ふね (fune) - boat", "row": "ha" },
+  { "kana": "へ", "romaji": "he", "type": "gojuon", "audio": "/audio/he.mp3", "example": "へや (heya) - room", "row": "ha" },
+  { "kana": "ほ", "romaji": "ho", "type": "gojuon", "audio": "/audio/ho.mp3", "example": "ほし (hoshi) - star", "row": "ha" },
+
+  { "kana": "ま", "romaji": "ma", "type": "gojuon", "audio": "/audio/ma.mp3", "example": "まど (mado) - window", "row": "ma" },
+  { "kana": "み", "romaji": "mi", "type": "gojuon", "audio": "/audio/mi.mp3", "example": "みず (mizu) - water", "row": "ma" },
+  { "kana": "む", "romaji": "mu", "type": "gojuon", "audio": "/audio/mu.mp3", "example": "むし (mushi) - insect", "row": "ma" },
+  { "kana": "め", "romaji": "me", "type": "gojuon", "audio": "/audio/me.mp3", "example": "めがね (megane) - glasses", "row": "ma" },
+  { "kana": "も", "romaji": "mo", "type": "gojuon", "audio": "/audio/mo.mp3", "example": "もも (momo) - peach", "row": "ma" },
+
+  
+  { "kana": "ら", "romaji": "ra", "type": "gojuon", "audio": "/audio/ra.mp3", "example": "らいおん (raion) - lion", "row": "ra" },
+  { "kana": "り", "romaji": "ri", "type": "gojuon", "audio": "/audio/ri.mp3", "example": "りんご (ringo) - apple", "row": "ra" },
+  { "kana": "る", "romaji": "ru", "type": "gojuon", "audio": "/audio/ru.mp3", "example": "るす (rusu) - absence", "row": "ra" },
+  { "kana": "れ", "romaji": "re", "type": "gojuon", "audio": "/audio/re.mp3", "example": "れいぞうこ (reizouko) - fridge", "row": "ra" },
+  { "kana": "ろ", "romaji": "ro", "type": "gojuon", "audio": "/audio/ro.mp3", "example": "ろうそく (rousoku) - candle", "row": "ra" },
+  
+  { "kana": "や", "romaji": "ya", "type": "gojuon", "audio": "/audio/ya.mp3", "example": "やま (yama) - mountain", "row": "ya" },
+  { "kana": "ゆ", "romaji": "yu", "type": "gojuon", "audio": "/audio/yu.mp3", "example": "ゆき (yuki) - snow", "row": "ya" },
+  { "kana": "よ", "romaji": "yo", "type": "gojuon", "audio": "/audio/yo.mp3", "example": "よる (yoru) - night", "row": "ya" },
+
+  { "kana": "わ", "romaji": "wa", "type": "gojuon", "audio": "/audio/wa.mp3", "example": "わに (wani) - crocodile", "row": "wa" },
+  { "kana": "を", "romaji": "wo", "type": "gojuon", "audio": "/audio/wo.mp3", "example": "を (wo) - grammatical particle", "row": "wa" },
+  { "kana": "ん", "romaji": "n", "type": "gojuon", "audio": "/audio/n.mp3", "example": "ほん (hon) - book", "row": "wa" },
+
+  { "kana": "が", "romaji": "ga", "type": "dakuon", "audio": "/audio/ga.mp3", "example": "がっこう (gakkou) - school", "row": "ka" },
+  { "kana": "ぎ", "romaji": "gi", "type": "dakuon", "audio": "/audio/gi.mp3", "example": "ぎゅうにゅう (gyuunyuu) - milk", "row": "ka" },
+  { "kana": "ぐ", "romaji": "gu", "type": "dakuon", "audio": "/audio/gu.mp3", "example": "ぐんたい (guntai) - army", "row": "ka" },
+  { "kana": "げ", "romaji": "ge", "type": "dakuon", "audio": "/audio/ge.mp3", "example": "げんき (genki) - healthy", "row": "ka" },
+  { "kana": "ご", "romaji": "go", "type": "dakuon", "audio": "/audio/go.mp3", "example": "ごはん (gohan) - rice/meal", "row": "ka" },
+
+  { "kana": "ざ", "romaji": "za", "type": "dakuon", "audio": "/audio/za.mp3", "example": "ざっし (zasshi) - magazine", "row": "sa" },
+  { "kana": "じ", "romaji": "ji", "type": "dakuon", "audio": "/audio/ji.mp3", "example": "じしょ (jisho) - dictionary", "row": "sa" },
+  { "kana": "ず", "romaji": "zu", "type": "dakuon", "audio": "/audio/zu.mp3", "example": "ずぼん (zubon) - pants", "row": "sa" },
+  { "kana": "ぜ", "romaji": "ze", "type": "dakuon", "audio": "/audio/ze.mp3", "example": "ぜんぶ (zenbu) - all", "row": "sa" },
+  { "kana": "ぞ", "romaji": "zo", "type": "dakuon", "audio": "/audio/zo.mp3", "example": "ぞう (zou) - elephant", "row": "sa" },
+
+  { "kana": "だ", "romaji": "da", "type": "dakuon", "audio": "/audio/da.mp3", "example": "だいがく (daigaku) - university", "row": "ta" },
+  { "kana": "ぢ", "romaji": "ji", "type": "dakuon", "audio": "/audio/di.mp3", "example": "ちぢむ (chijimu) - to shrink", "row": "ta" },
+  { "kana": "づ", "romaji": "zu", "type": "dakuon", "audio": "/audio/du.mp3", "example": "つづく (tsuzuku) - to continue", "row": "ta" },
+  { "kana": "で", "romaji": "de", "type": "dakuon", "audio": "/audio/de.mp3", "example": "でんしゃ (densha) - train", "row": "ta" },
+  { "kana": "ど", "romaji": "do", "type": "dakuon", "audio": "/audio/do.mp3", "example": "どようび (doyoubi) - Saturday", "row": "ta" },
+
+  { "kana": "ば", "romaji": "ba", "type": "dakuon", "audio": "/audio/ba.mp3", "example": "ばしょ (basho) - place", "row": "ha" },
+  { "kana": "び", "romaji": "bi", "type": "dakuon", "audio": "/audio/bi.mp3", "example": "びょういん (byouin) - hospital", "row": "ha" },
+  { "kana": "ぶ", "romaji": "bu", "type": "dakuon", "audio": "/audio/bu.mp3", "example": "ぶた (buta) - pig", "row": "ha" },
+  { "kana": "べ", "romaji": "be", "type": "dakuon", "audio": "/audio/be.mp3", "example": "べんきょう (benkyou) - study", "row": "ha" },
+  { "kana": "ぼ", "romaji": "bo", "type": "dakuon", "audio": "/audio/bo.mp3", "example": "ぼうし (boushi) - hat", "row": "ha" },
+
+  { "kana": "ぱ", "romaji": "pa", "type": "handakuon", "audio": "/audio/pa.mp3", "example": "ぱん (pan) - bread", "row": "ha" },
+  { "kana": "ぴ", "romaji": "pi", "type": "handakuon", "audio": "/audio/pi.mp3", "example": "ぴあの (piano) - piano", "row": "ha" },
+  { "kana": "ぷ", "romaji": "pu", "type": "handakuon", "audio": "/audio/pu.mp3", "example": "ぷーる (puuru) - pool", "row": "ha" },
+  { "kana": "ぺ", "romaji": "pe", "type": "handakuon", "audio": "/audio/pe.mp3", "example": "ぺん (pen) - pen", "row": "ha" },
+  { "kana": "ぽ", "romaji": "po", "type": "handakuon", "audio": "/audio/po.mp3", "example": "ぽけっと (poketto) - pocket", "row": "ha" }
+]

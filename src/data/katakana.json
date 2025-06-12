@@ -1,0 +1,575 @@
+[
+  {
+    "kana": "ア",
+    "romaji": "a",
+    "type": "gojuon",
+    "audio": "/audio/a.mp3",
+    "example": "アイス (ice cream)",
+    "row": "a"
+  },
+  {
+    "kana": "イ",
+    "romaji": "i",
+    "type": "gojuon",
+    "audio": "/audio/i.mp3",
+    "example": "インターネット (internet)",
+    "row": "a"
+  },
+  {
+    "kana": "ウ",
+    "romaji": "u",
+    "type": "gojuon",
+    "audio": "/audio/u.mp3",
+    "example": "ウィンドウ (window)",
+    "row": "a"
+  },
+  {
+    "kana": "エ",
+    "romaji": "e",
+    "type": "gojuon",
+    "audio": "/audio/e.mp3",
+    "example": "エレベーター (elevator)",
+    "row": "a"
+  },
+  {
+    "kana": "オ",
+    "romaji": "o",
+    "type": "gojuon",
+    "audio": "/audio/o.mp3",
+    "example": "オレンジ (orange)",
+    "row": "a"
+  },
+  {
+    "kana": "カ",
+    "romaji": "ka",
+    "type": "gojuon",
+    "audio": "/audio/ka.mp3",
+    "example": "カメラ (camera)",
+    "row": "ka"
+  },
+  {
+    "kana": "キ",
+    "romaji": "ki",
+    "type": "gojuon",
+    "audio": "/audio/ki.mp3",
+    "example": "キッチン (kitchen)",
+    "row": "ka"
+  },
+  {
+    "kana": "ク",
+    "romaji": "ku",
+    "type": "gojuon",
+    "audio": "/audio/ku.mp3",
+    "example": "クッキー (cookie)",
+    "row": "ka"
+  },
+  {
+    "kana": "ケ",
+    "romaji": "ke",
+    "type": "gojuon",
+    "audio": "/audio/ke.mp3",
+    "example": "ケーキ (cake)",
+    "row": "ka"
+  },
+  {
+    "kana": "コ",
+    "romaji": "ko",
+    "type": "gojuon",
+    "audio": "/audio/ko.mp3",
+    "example": "コーヒー (coffee)",
+    "row": "ka"
+  },
+  {
+    "kana": "サ",
+    "romaji": "sa",
+    "type": "gojuon",
+    "audio": "/audio/sa.mp3",
+    "example": "サラダ (salad)",
+    "row": "sa"
+  },
+  {
+    "kana": "シ",
+    "romaji": "shi",
+    "type": "gojuon",
+    "audio": "/audio/shi.mp3",
+    "example": "シャツ (shirt)",
+    "row": "sa"
+    
+  },
+  {
+    "kana": "ス",
+    "romaji": "su",
+    "type": "gojuon",
+    "audio": "/audio/su.mp3",
+    "example": "スーパー (supermarket)",
+    "row": "sa"
+  },
+  {
+    "kana": "セ",
+    "romaji": "se",
+    "type": "gojuon",
+    "audio": "/audio/se.mp3",
+    "example": "セーター (sweater)",
+    "row": "sa"
+  },
+  {
+    "kana": "ソ",
+    "romaji": "so",
+    "type": "gojuon",
+    "audio": "/audio/so.mp3",
+    "example": "ソファ (sofa)",
+    "row": "sa"
+  },
+  {
+    "kana": "タ",
+    "romaji": "ta",
+    "type": "gojuon",
+    "audio": "/audio/ta.mp3",
+    "example": "タクシー (taxi)",
+    "row": "ta"
+  },
+  {
+    "kana": "チ",
+    "romaji": "chi",
+    "type": "gojuon",
+    "audio": "/audio/chi.mp3",
+    "example": "チーズ (cheese)",
+    "row": "ta"
+  },
+  {
+    "kana": "ツ",
+    "romaji": "tsu",
+    "type": "gojuon",
+    "audio": "/audio/tsu.mp3",
+    "example": "ツアー (tour)",
+    "row": "ta"
+  },
+  {
+    "kana": "テ",
+    "romaji": "te",
+    "type": "gojuon",
+    "audio": "/audio/te.mp3",
+    "example": "テレビ (television)",
+    "row": "ta"
+  },
+  {
+    "kana": "ト",
+    "romaji": "to",
+    "type": "gojuon",
+    "audio": "/audio/to.mp3",
+    "example": "トマト (tomato)",
+    "row": "ta"
+  },
+  {
+    "kana": "ナ",
+    "romaji": "na",
+    "type": "gojuon",
+    "audio": "/audio/na.mp3",
+    "example": "ナイフ (knife)",
+    "row": "na"
+  },
+  {
+    "kana": "ニ",
+    "romaji": "ni",
+    "type": "gojuon",
+    "audio": "/audio/ni.mp3",
+    "example": "ニュース (news)",
+    "row": "na"
+  },
+  {
+    "kana": "ヌ",
+    "romaji": "nu",
+    "type": "gojuon",
+    "audio": "/audio/nu.mp3",
+    "example": "ヌードル (noodle)",
+    "row": "na"
+  },
+  {
+    "kana": "ネ",
+    "romaji": "ne",
+    "type": "gojuon",
+    "audio": "/audio/ne.mp3",
+    "example": "ネクタイ (necktie)",
+    "row": "na"
+  },
+  {
+    "kana": "ノ",
+    "romaji": "no",
+    "type": "gojuon",
+    "audio": "/audio/no.mp3",
+    "example": "ノート (notebook)",
+    "row": "na"
+  },
+  {
+    "kana": "ハ",
+    "romaji": "ha",
+    "type": "gojuon",
+    "audio": "/audio/ha.mp3",
+    "example": "ハンバーガー (hamburger)",
+    "row": "ha"
+  },
+  {
+    "kana": "ヒ",
+    "romaji": "hi",
+    "type": "gojuon",
+    "audio": "/audio/hi.mp3",
+    "example": "ヒーター (heater)",
+    "row": "ha"
+  },
+  {
+    "kana": "フ",
+    "romaji": "fu",
+    "type": "gojuon",
+    "audio": "/audio/fu.mp3",
+    "example": "フルーツ (fruit)",
+    "row": "ha"
+  },
+  {
+    "kana": "ヘ",
+    "romaji": "he",
+    "type": "gojuon",
+    "audio": "/audio/he.mp3",
+    "example": "ヘリコプター (helicopter)",
+    "row": "ha"
+  },
+  {
+    "kana": "ホ",
+    "romaji": "ho",
+    "type": "gojuon",
+    "audio": "/audio/ho.mp3",
+    "example": "ホテル (hotel)",
+    "row": "ha"
+  },
+  {
+    "kana": "ラ",
+    "romaji": "ra",
+    "type": "gojuon",
+    "audio": "/audio/ra.mp3",
+    "example": "ラジオ (radio)",
+    "row": "ra"
+  },
+  {
+    "kana": "リ",
+    "romaji": "ri",
+    "type": "gojuon",
+    "audio": "/audio/ri.mp3",
+    "example": "リモコン (remote control)",
+    "row": "ra"
+  },
+  {
+    "kana": "ル",
+    "romaji": "ru",
+    "type": "gojuon",
+    "audio": "/audio/ru.mp3",
+    "example": "ルール (rule)",
+    "row": "ra"
+  },
+  {
+    "kana": "レ",
+    "romaji": "re",
+    "type": "gojuon",
+    "audio": "/audio/re.mp3",
+    "example": "レストラン (restaurant)",
+    "row": "ra"
+  },
+  {
+    "kana": "ロ",
+    "romaji": "ro",
+    "type": "gojuon",
+    "audio": "/audio/ro.mp3",
+    "example": "ロボット (robot)",
+    "row": "ra"
+  },
+  {
+    "kana": "マ",
+    "romaji": "ma",
+    "type": "gojuon",
+    "audio": "/audio/ma.mp3",
+    "example": "マスク (mask)",
+    "row": "ma"
+  },
+  {
+    "kana": "ミ",
+    "romaji": "mi",
+    "type": "gojuon",
+    "audio": "/audio/mi.mp3",
+    "example": "ミルク (milk)",
+    "row": "ma"
+  },
+  {
+    "kana": "ム",
+    "romaji": "mu",
+    "type": "gojuon",
+    "audio": "/audio/mu.mp3",
+    "example": "ムービー (movie)",
+    "row": "ma"
+  },
+  {
+    "kana": "メ",
+    "romaji": "me",
+    "type": "gojuon",
+    "audio": "/audio/me.mp3",
+    "example": "メニュー (menu)",
+    "row": "ma"
+  },
+  {
+    "kana": "モ",
+    "romaji": "mo",
+    "type": "gojuon",
+    "audio": "/audio/mo.mp3",
+    "example": "モーター (motor)",
+    "row": "ma"
+  },
+  {
+    "kana": "ヤ",
+    "romaji": "ya",
+    "type": "gojuon",
+    "audio": "/audio/ya.mp3",
+    "example": "ヤマハ (Yamaha)",
+    "row": "ya"
+  },
+  {
+    "kana": "ユ",
+    "romaji": "yu",
+    "type": "gojuon",
+    "audio": "/audio/yu.mp3",
+    "example": "ユニフォーム (uniform)",
+    "row": "ya"
+  },
+  {
+    "kana": "ヨ",
+    "romaji": "yo",
+    "type": "gojuon",
+    "audio": "/audio/yo.mp3",
+    "example": "ヨーグルト (yogurt)",
+    "row": "ya"
+  },
+  {
+    "kana": "ワ",
+    "romaji": "wa",
+    "type": "gojuon",
+    "audio": "/audio/wa.mp3",
+    "example": "ワイン (wine)",
+    "row": "wa"
+  },
+  {
+    "kana": "ヲ",
+    "romaji": "wo",
+    "type": "gojuon",
+    "audio": "/audio/wo.mp3",
+    "example": "ヲ (wo) - grammatical particle",
+    "row": "wa"
+  },
+  {
+    "kana": "ン",
+    "romaji": "n",
+    "type": "gojuon",
+    "audio": "/audio/n.mp3",
+    "example": "コンピューター (computer)",
+    "row": "wa"
+  },
+
+
+  {
+    "kana": "ガ",
+    "romaji": "ga",
+    "type": "dakuon",
+    "audio": "/audio/ga.mp3",
+    "example": "ガラス (glass)",
+    "row": "ka"
+  },
+  {
+    "kana": "ギ",
+    "romaji": "gi",
+    "type": "dakuon",
+    "audio": "/audio/gi.mp3",
+    "example": "ギター (guitar)",
+    "row": "ka"
+  },
+  {
+    "kana": "グ",
+    "romaji": "gu",
+    "type": "dakuon",
+    "audio": "/audio/gu.mp3",
+    "example": "グラム (gram)",
+    "row": "ka"
+  },
+  {
+    "kana": "ゲ",
+    "romaji": "ge",
+    "type": "dakuon",
+    "audio": "/audio/ge.mp3",
+    "example": "ゲーム (game)",
+    "row": "ka"
+  },
+  {
+    "kana": "ゴ",
+    "romaji": "go",
+    "type": "dakuon",
+    "audio": "/audio/go.mp3",
+    "example": "ゴルフ (golf)",
+    "row": "ka"
+  },
+  {
+    "kana": "ザ",
+    "romaji": "za",
+    "type": "dakuon",
+    "audio": "/audio/za.mp3",
+    "example": "ザル (strainer)",
+    "row": "sa"
+  },
+  {
+    "kana": "ジ",
+    "romaji": "ji",
+    "type": "dakuon",
+    "audio": "/audio/ji.mp3",
+    "example": "ジーンズ (jeans)",
+    "row": "sa"
+  },
+  {
+    "kana": "ズ",
+    "romaji": "zu",
+    "type": "dakuon",
+    "audio": "/audio/zu.mp3",
+    "example": "ズーム (zoom)",
+    "row": "sa"
+  },
+  {
+    "kana": "ゼ",
+    "romaji": "ze",
+    "type": "dakuon",
+    "audio": "/audio/ze.mp3",
+    "example": "ゼロ (zero)",
+    "row": "sa"
+  },
+  {
+    "kana": "ゾ",
+    "romaji": "zo",
+    "type": "dakuon",
+    "audio": "/audio/zo.mp3",
+    "example": "ゾンビ (zombie)",
+    "row": "sa"
+  },
+  {
+    "kana": "ダ",
+    "romaji": "da",
+    "type": "dakuon",
+    "audio": "/audio/da.mp3",
+    "example": "ダンス (dance)",
+    "row": "ta"
+  },
+  {
+    "kana": "ヂ",
+    "romaji": "ji",
+    "type": "dakuon",
+    "audio": "/audio/di.mp3",
+    "example": "ヂヂミ (Korean pancake)",
+    "row": "ta"
+  },
+  {
+    "kana": "ヅ",
+    "romaji": "zu",
+    "type": "dakuon",
+    "audio": "/audio/du.mp3",
+    "example": "ヅカ (nickname for Takarazuka Revue)",
+    "row": "ta"
+  },
+  {
+    "kana": "デ",
+    "romaji": "de",
+    "type": "dakuon",
+    "audio": "/audio/de.mp3",
+    "example": "デザイン (design)",
+    "row": "ta"
+  },
+  {
+    "kana": "ド",
+    "romaji": "do",
+    "type": "dakuon",
+    "audio": "/audio/do.mp3",
+    "example": "ドア (door)",
+    "row": "ta"
+  },
+  {
+    "kana": "バ",
+    "romaji": "ba",
+    "type": "dakuon",
+    "audio": "/audio/ba.mp3",
+    "example": "バナナ (banana)",
+    "row": "ha"
+  },
+  {
+    "kana": "ビ",
+    "romaji": "bi",
+    "type": "dakuon",
+    "audio": "/audio/bi.mp3",
+    "example": "ビール (beer)",
+    "row": "ha"
+  },
+  {
+    "kana": "ブ",
+    "romaji": "bu",
+    "type": "dakuon",
+    "audio": "/audio/bu.mp3",
+    "example": "ブーツ (boots)",
+    "row": "ha"
+},
+{
+    "kana": "ベ",
+    "romaji": "be",
+    "type": "dakuon",
+    "audio": "/audio/be.mp3",
+    "example": "ベッド (bed)",
+    "row": "ha"
+  },
+  {
+    "kana": "ボ",
+    "romaji": "bo",
+    "type": "dakuon",
+    "audio": "/audio/bo.mp3",
+    "example": "ボタン (button)",
+    "row": "ha"
+  },
+
+
+  {
+    "kana": "パ",
+    "romaji": "pa",
+    "type": "handakuon",
+    "audio": "/audio/pa.mp3",
+    "example": "パン (bread)",
+    "row": "ha"
+  },
+  {
+    "kana": "ピ",
+    "romaji": "pi",
+    "type": "handakuon",
+    "audio": "/audio/pi.mp3",
+    "example": "ピザ (pizza)",
+    "row": "ha"
+  },
+  {
+    "kana": "プ",
+    "romaji": "pu",
+    "type": "handakuon",
+    "audio": "/audio/pu.mp3",
+    "example": "プール (pool)",
+    "row": "ha"
+  },
+  {
+    "kana": "ペ",
+    "romaji": "pe",
+    "type": "handakuon",
+    "audio": "/audio/pe.mp3",
+    "example": "ペン (pen)",
+    "row": "ha"
+  },
+  {
+    "kana": "ポ",
+    "romaji": "po",
+    "type": "handakuon",
+    "audio": "/audio/po.mp3",
+    "example": "ポスト (post/mailbox)",
+    "row": "ha"
+  }
+]
